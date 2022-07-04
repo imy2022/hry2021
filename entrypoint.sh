@@ -1,7 +1,7 @@
 #!/bin/sh
 
 UUID=6c0eef4d-190d-48e3-82f3-934054736bf9
-WSPATH=/hry
+WSPATH=/app
 PORT=80
 
 
